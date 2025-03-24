@@ -169,7 +169,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 Your Name
 
-- GitHub: [kigamyamburu](https://github.com/kiganyamburu)
+- GitHub: [kiganyamburu](https://github.com/kiganyamburu)
 - LinkedIn: [Peter mburu](https://www.linkedin.com/in/kiganya-mburu-53a7b5231/)
 
 ## 🙏 Acknowledgments
